@@ -31,4 +31,3 @@ class Monster {
 var monster = new Monster("foo", 100);
 monster.attack("bar");
 monster.health = 80;
-monster.health = -10;
